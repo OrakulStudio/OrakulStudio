@@ -89,7 +89,7 @@ orakul = {
 
 ---
 
-## 📸 Последние работы / [](https://orakulstorm.myportfolio.com/work)
+## 📸 Последние работы / [Adobe Stock](https://orakulstorm.myportfolio.com/work)
 
 <div align="center">
 
