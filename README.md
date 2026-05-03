@@ -47,7 +47,7 @@ orakul = {
 
 ## 🚀 Проекты / Projects
 
-### 🔗 [ComfyUI-Orakul-SVP](https://github.com/YOUR_USERNAME/ComfyUI-Orakul-SVP)
+### 🔗 [ComfyUI-Orakul-SVP](https://github.com/OrakulStudio/ComfyUI-Orakul-SVP-Dual-Export-Node-for-ComfyUI-PNG-to-output-16-bit-RAW-TIFF-to-output-temp_svp)
 > Dual Export Node — PNG + 16-bit RAW TIFF из одной ноды ComfyUI.  
 > Batch support · Accumulation mode · Zero compression loss
 
