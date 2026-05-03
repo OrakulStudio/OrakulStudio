@@ -89,7 +89,7 @@ orakul = {
 
 ---
 
-## 📸 Последние работы / Latest Works
+## 📸 Последние работы / [](https://orakulstorm.myportfolio.com/work)
 
 <div align="center">
 
