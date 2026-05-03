@@ -55,7 +55,7 @@ orakul = {
 > Патч ядра PyTorch для RTX 4090 (sm_89).  
 > Нативная генерация Flux2 2752×1536 без квантования за 5 минут.
 
-### 📸 Orakul Stock Collection
+### 📸 [Orakul Stock Collection](https://orakulstorm.myportfolio.com/work)
 > Макро-фотография насекомых и металлических текстур.  
 > Adobe Stock · HDR · Black Background · Scientific Photography
 
