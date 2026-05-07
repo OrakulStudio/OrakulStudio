@@ -47,13 +47,17 @@ orakul = {
 
 ## 🚀 Проекты / Projects
 
-### 🔗 [AI-Toolkit-VRAM-Engine](https://github.com/OrakulStudio/AI-Toolkit-VRAM-Engine)
+### ⚙️ [AI-Toolkit-VRAM-Engine](https://github.com/OrakulStudio/AI-Toolkit-VRAM-Engine)
 > Universal asynchronous VRAM engine for Ostris AI-Toolkit.   
 > Zero-latency compute-transfer overlap with up to 11x training speedup on consumer GPUs.
 
 ### ⚙️ [PyTorch CUDA Optimizer](https://github.com/OrakulStudio/ComfyUI-Viking-Engine)
 > Патч ядра PyTorch для RTX 4090 (sm_89).  
 > Нативная генерация Flux2 2752×1536 без квантования за 5 минут.
+
+### 🔗 [ComfyUI-Orakul-SVP](https://github.com/YOUR_USERNAME/ComfyUI-Orakul-SVP)
+> Dual Export Node — PNG + 16-bit RAW TIFF из одной ноды ComfyUI.  
+> Batch support · Accumulation mode · Zero compression loss
 
 ### 📸 [Orakul Stock Collection](https://orakulstorm.myportfolio.com/work)
 > Макро-фотография насекомых и металлических текстур.  
