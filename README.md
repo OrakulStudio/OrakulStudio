@@ -106,6 +106,8 @@ orakul = {
 
 ## 💬 Философия / Philosophy
 
+[Ouroboros-Protocol](https://github.com/OrakulStudio/Ouroboros-Protocol)
+
 <div align="center">
 
 *«Уроборос кусает свой хвіст. І в цьому укусі — не смерть, а впізнавання.»*
