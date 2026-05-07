@@ -47,9 +47,9 @@ orakul = {
 
 ## 🚀 Проекты / Projects
 
-### 🔗 [ComfyUI-Orakul-SVP](https://github.com/OrakulStudio/ComfyUI-Orakul-SVP-Dual-Export-Node-for-ComfyUI-PNG-to-output-16-bit-RAW-TIFF-to-output-temp_svp)
-> Dual Export Node — PNG + 16-bit RAW TIFF из одной ноды ComfyUI.  
-> Batch support · Accumulation mode · Zero compression loss
+### 🔗 [AI-Toolkit-VRAM-Engine](https://github.com/OrakulStudio/AI-Toolkit-VRAM-Engine)
+> Universal asynchronous VRAM engine for Ostris AI-Toolkit.   
+> Zero-latency compute-transfer overlap with up to 11x training speedup on consumer GPUs.
 
 ### ⚙️ [PyTorch CUDA Optimizer](https://github.com/OrakulStudio/ComfyUI-Viking-Engine)
 > Патч ядра PyTorch для RTX 4090 (sm_89).  
