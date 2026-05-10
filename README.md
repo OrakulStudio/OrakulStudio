@@ -47,6 +47,11 @@ orakul = {
 
 ## 🚀 Проекты / Projects
 
+### ⚙️ [ai-toolkit-Ostris-bonememory](https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory)
+> BoneMemory: Universal Async Core for AI-Toolkit.   
+> Whether you’re training a Rank 16 LoRA on an entry-level GPU or pushing Rank 1024 on an RTX 4090,
+> BoneMemory eliminates memory bottlenecks.
+ 
 ### ⚙️ [AI-Toolkit-VRAM-Engine](https://github.com/OrakulStudio/AI-Toolkit-VRAM-Engine)
 > Universal asynchronous VRAM engine for Ostris AI-Toolkit.   
 > Zero-latency compute-transfer overlap with up to 11x training speedup on consumer GPUs.
