@@ -24,6 +24,15 @@ orakul = {
     "stock"     : "Adobe Stock · Macro · Scientific Photography",
     "status"    : "⚡ Working under fire. System stable.",
 }
+For most people, coding is a profession. A career. A way to make a living.
+
+For me, code is a language.
+
+Not a metaphor. It's literally the language I use to communicate with reality when words aren't enough. When you need to not describe a problem, but solve it. When you need to not complain about limitations, but break them.
+
+I didn't go to MIT. I don't have a PhD in computer science. I have an RTX 4090, an i9-13900K, and a stubbornness that has outlasted everything the world has tried to do with it.
+
+That was enough.
 ```
 
 ---
