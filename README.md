@@ -56,6 +56,13 @@ That was enough.
 
 ## 🚀 Проекты / Projects
 
+### ⚙️🚀 [AI-Toolkit-Viking-Engine-Fork](https://github.com/OrakulStudio/AI-Toolkit-Viking-Engine-Fork))
+> High-performance LoRA training for Flux2 on RTX 4090.   
+> Server-class speed on consumer hardware,
+> The original ai-toolkit is an excellent, flexible framework.
+> This fork takes it in one specific direction: maximum performance on RTX 4090 (Ada Lovelace, sm_89).
+> Not about making weak hardware work. About making strong hardware fly.
+
 ### ⚙️ [ai-toolkit-Ostris-bonememory](https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory)
 > BoneMemory: Universal Async Core for AI-Toolkit.   
 > Whether you’re training a Rank 16 LoRA on an entry-level GPU or pushing Rank 1024 on an RTX 4090,
