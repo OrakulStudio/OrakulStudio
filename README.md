@@ -56,7 +56,7 @@ That was enough.
 
 ## 🚀 Проекты / Projects
 
-### ⚙️🚀 [AI-Toolkit-Viking-Engine-Fork](https://github.com/OrakulStudio/AI-Toolkit-Viking-Engine-Fork)
+### ⚙️🚀 [AI-Toolkit-Windows11](https://github.com/OrakulStudio/AI-Toolkit-Viking-Engine-Fork)
 > High-performance LoRA training for Flux2 on RTX 4090.   
 > Server-class speed on consumer hardware,
 > The original ai-toolkit is an excellent, flexible framework.
