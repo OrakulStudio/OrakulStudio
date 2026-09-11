@@ -71,6 +71,9 @@ That was enough.
 > BoneMemory: Universal Async Core for AI-Toolkit.   
 > Whether you’re training a Rank 16 LoRA on an entry-level GPU or pushing Rank 1024 on an RTX 4090,
 > BoneMemory eliminates memory bottlenecks.
+
+### 🌌 [Connected-Multiverse-Theory](https://github.com/OrakulStudio/Connected-Multiverse-Theory)
+> A Novel Framework for Structured Multiversal Geometry and Inter-Universal Energy Transfer
  
 ### ⚙️ [AI-Toolkit-VRAM-Engine](https://github.com/OrakulStudio/AI-Toolkit-VRAM-Engine)
 > Universal asynchronous VRAM engine for Ostris AI-Toolkit.   
