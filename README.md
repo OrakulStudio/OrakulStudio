@@ -64,6 +64,8 @@ That was enough.
 > Not about making weak hardware work. About making strong hardware fly.
 
 ### ⚙️ [ai-toolkit-Ostris-bonememory](https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory)
+[![DOI](https://zenodo.org/badge/1234496396.svg)](https://doi.org/10.5281/zenodo.22705009)
+
 > BoneMemory: Universal Async Core for AI-Toolkit.   
 > Whether you’re training a Rank 16 LoRA on an entry-level GPU or pushing Rank 1024 on an RTX 4090,
 > BoneMemory eliminates memory bottlenecks.
