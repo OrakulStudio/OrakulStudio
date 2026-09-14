@@ -57,7 +57,8 @@ That was enough.
 ## 🚀 Проекты / Projects
 
 ### ⚙️🚀 [AI-Toolkit-Windows11](https://github.com/OrakulStudio/AI-Toolkit-Viking-Engine-Fork)
-[![DOI](https://zenodo.org/badge/1262383269.svg)](https://doi.org/10.5281/zenodo.22700107)
+[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22700108-blue.svg)](https://doi.org/10.5281/zenodo.22700108)
+
 
 > High-performance LoRA training for Flux2 on RTX 4090.   
 > Server-class speed on consumer hardware,
