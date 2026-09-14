@@ -74,7 +74,7 @@ That was enough.
 > BoneMemory eliminates memory bottlenecks.
 
 ### 🌌 [Connected-Multiverse-Theory](https://github.com/OrakulStudio/Connected-Multiverse-Theory)
-[![DOI](https://zenodo.org/badge/1365768075.svg)](https://doi.org/10.5281/zenodo.22707332)
+[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22707436-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22707436)
 
 > A Novel Framework for Structured Multiversal Geometry and Inter-Universal Energy Transfer
  
