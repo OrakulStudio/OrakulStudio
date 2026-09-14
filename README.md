@@ -57,7 +57,7 @@ That was enough.
 ## 🚀 Проекты / Projects
 
 ### ⚙️🚀 [AI-Toolkit-Windows11](https://github.com/OrakulStudio/AI-Toolkit-Viking-Engine-Fork)
-[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22700108-blue.svg)](https://doi.org/10.5281/zenodo.22700108)
+[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22700108-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22700108)
 
 
 > High-performance LoRA training for Flux2 on RTX 4090.   
@@ -67,7 +67,7 @@ That was enough.
 > Not about making weak hardware work. About making strong hardware fly.
 
 ### ⚙️ [ai-toolkit-Ostris-bonememory](https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory)
-[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22705010-blue.svg?style=flat-logo=zenodo)](https://doi.org/10.5281/zenodo.22705010)
+[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22705010-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22705010)
 
 > BoneMemory: Universal Async Core for AI-Toolkit.   
 > Whether you’re training a Rank 16 LoRA on an entry-level GPU or pushing Rank 1024 on an RTX 4090,
