@@ -66,6 +66,14 @@ That was enough.
 > This fork takes it in one specific direction: maximum performance on RTX 4090 (Ada Lovelace, sm_89).
 > Not about making weak hardware work. About making strong hardware fly.
 
+### ⚙️🚀 [FLUX2-RANK-2048](https://github.com/OrakulStudio/FLUX2-RANK-2048)
+
+> Double-buffered async weight streaming — zero OOM at rank 1024+   
+> CPU pinned-memory pre-staging (bypasses pagefile/swap entirely)
+> Hardware-level BF16 / FP8 (E5M2) execution pipeline
+> 100% deterministic checkpoint resume (no restart lottery, no silent stalls)
+
+
 ### ⚙️ [ai-toolkit-Ostris-bonememory](https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory)
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22705010-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22705010)
 
