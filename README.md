@@ -58,6 +58,7 @@ That was enough.
 
 ### ⚙️🚀 [AI-Toolkit-Windows11](https://github.com/OrakulStudio/AI-Toolkit-Viking-Engine-Fork)
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22700108-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22700108)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 > High-performance LoRA training for Flux2 on RTX 4090.   
@@ -74,7 +75,7 @@ That was enough.
 > Arbitrary sign flips** of singular vectors $\rightarrow$ phase misalignment across layers,
 > Substantial loss of Frobenius energy** during rank truncation.
 
-### ⚙️🚀 [FLUX2-RANK-2048 (21.09.2026)](https://github.com/OrakulStudio/FLUX2-RANK-2048)
+### ⚙️🚀 [FLUX2-RANK-2048 (21.09.2026)](https://github.com/OrakulStudio/FLUX2-RANK-2048)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Double-buffered async weight streaming - zero OOM at rank 1024+   
 > CPU pinned-memory pre-staging (bypasses pagefile/swap entirely)
@@ -84,6 +85,7 @@ That was enough.
 
 ### ⚙️ [ai-toolkit-Ostris-bonememory](https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory)
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22705010-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22705010)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > BoneMemory: Universal Async Core for AI-Toolkit.   
 > Whether you’re training a Rank 16 LoRA on an entry-level GPU or pushing Rank 1024 on an RTX 4090,
@@ -91,18 +93,22 @@ That was enough.
 
 ### 🌌 [Connected-Multiverse-Theory](https://github.com/OrakulStudio/Connected-Multiverse-Theory)
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22707436-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22707436)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > A Novel Framework for Structured Multiversal Geometry and Inter-Universal Energy Transfer
  
 ### ⚙️ [AI-Toolkit-VRAM-Engine](https://github.com/OrakulStudio/AI-Toolkit-VRAM-Engine)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > Universal asynchronous VRAM engine for Ostris AI-Toolkit.   
 > Zero-latency compute-transfer overlap with up to 11x training speedup on consumer GPUs.
 
 ### ⚙️ [PyTorch CUDA Optimizer](https://github.com/OrakulStudio/ComfyUI-Viking-Engine)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > Патч ядра PyTorch для RTX 4090 (sm_89).  
 > Нативная генерация Flux2 2752×1536 без квантования за 5 минут.
 
 ### 🔗 [ComfyUI-Orakul-SVP](https://github.com/OrakulStudio/ComfyUI-Orakul-SVP)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > Dual Export Node — PNG + 16-bit RAW TIFF из одной ноды ComfyUI.  
 > Batch support · Accumulation mode · Zero compression loss
 
