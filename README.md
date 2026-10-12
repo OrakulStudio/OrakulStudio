@@ -75,7 +75,9 @@ That was enough.
 > Arbitrary sign flips** of singular vectors $\rightarrow$ phase misalignment across layers,
 > Substantial loss of Frobenius energy** during rank truncation.
 
-### ⚙️🚀 [FLUX2-RANK-2048 (21.09.2026)](https://github.com/OrakulStudio/FLUX2-RANK-2048)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+### ⚙️🚀 [FLUX2-RANK-2048 (21.09.2026)](https://github.com/OrakulStudio/FLUX2-RANK-2048)
+[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 > Double-buffered async weight streaming - zero OOM at rank 1024+   
 > CPU pinned-memory pre-staging (bypasses pagefile/swap entirely)
