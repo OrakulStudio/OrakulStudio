@@ -66,6 +66,14 @@ That was enough.
 > This fork takes it in one specific direction: maximum performance on RTX 4090 (Ada Lovelace, sm_89).
 > Not about making weak hardware work. About making strong hardware fly.
 
+### 👨‍🎓 [SAEP-SVD-Beyond-Eckart-Young (11.10.2026)](https://github.com/OrakulStudio/SAEP-SVD-Beyond-Eckart-Young)
+[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.23290969-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.23290969)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> We identify two root causes:   
+> Arbitrary sign flips** of singular vectors $\rightarrow$ phase misalignment across layers,
+> Substantial loss of Frobenius energy** during rank truncation.
+
 ### ⚙️🚀 [FLUX2-RANK-2048 (21.09.2026)](https://github.com/OrakulStudio/FLUX2-RANK-2048)
 
 > Double-buffered async weight streaming - zero OOM at rank 1024+   
