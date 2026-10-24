@@ -101,6 +101,19 @@ That was enough.
 > Dual Export Node - PNG + 16-bit RAW TIFF из одной ноды ComfyUI.  
 > Batch support · Accumulation mode · Zero compression loss
 
+### 🔗 [ComfyUI-Orakul-3K-Resolution](https://github.com/OrakulStudio/ComfyUI-Orakul-3K-Resolution)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
+> Solution: Experimental selection of presets at 10 steps.  
+> Every value tested the model generates stably, without artifacts, without doubles.
+> 3K square (3072×3072) at 10 steps: → Generation time: ~3.5 minutes
+
+### 🔗 [Viking-Multi-tool-ORAKUL-SYSTEM](https://github.com/OrakulStudio/Viking-Multi-tool-ORAKUL-SYSTEM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
+> Advanced Latent Density Controller for Diffusion Models (Flux, SDXL, SD1.5)  
+> We didn’t just add sliders. We rewrote the logic for how noise interacts with the weights at every step.
+> If you want to see the mathematics behind this process, take a look at the source code. Everything is laid out honestly there.
+
+
 ### 🌌 [Connected-Multiverse-Theory](https://github.com/OrakulStudio/Connected-Multiverse-Theory)
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22707436-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22707436)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
