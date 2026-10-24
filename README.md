@@ -65,17 +65,12 @@ That was enough.
 > This fork takes it in one specific direction: maximum performance on RTX 4090 (Ada Lovelace, sm_89).
 > Not about making weak hardware work. About making strong hardware fly.
 
-### 🔗 [ComfyUI-Orakul-SVP](https://github.com/OrakulStudio/ComfyUI-Orakul-SVP)
+### ⚙️ [ai-toolkit-Ostris-bonememory](https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory)
+[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22705010-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22705010)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
-> Dual Export Node — PNG + 16-bit RAW TIFF из одной ноды ComfyUI.  
-> Batch support · Accumulation mode · Zero compression loss
-
-### 👨‍🎓 [SAEP-SVD-Beyond-Eckart-Young (11.10.2026)](https://github.com/OrakulStudio/SAEP-SVD-Beyond-Eckart-Young)
-[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.23290969-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.23290969)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
-> We identify two root causes:   
-> Arbitrary sign flips** of singular vectors $\rightarrow$ phase misalignment across layers,
-> Substantial loss of Frobenius energy** during rank truncation.
+> BoneMemory: Universal Async Core for AI-Toolkit.   
+> Whether you’re training a Rank 16 LoRA on an entry-level GPU or pushing Rank 1024 on an RTX 4090,
+> BoneMemory eliminates memory bottlenecks.
 
 ### ⚙️🚀 [FLUX2-RANK-2048 (21.09.2026)](https://github.com/OrakulStudio/FLUX2-RANK-2048)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
@@ -84,21 +79,13 @@ That was enough.
 > Hardware-level BF16 / FP8 (E5M2) execution pipeline
 > 100% deterministic checkpoint resume (no restart lottery, no silent stalls)
 
-
-### ⚙️ [ai-toolkit-Ostris-bonememory](https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory)
-[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22705010-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22705010)
+### 👨‍🎓 [SAEP-SVD-Beyond-Eckart-Young (11.10.2026)](https://github.com/OrakulStudio/SAEP-SVD-Beyond-Eckart-Young)
+[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.23290969-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.23290969)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
+> We identify two root causes:   
+> Arbitrary sign flips** of singular vectors $\rightarrow$ phase misalignment across layers,
+> Substantial loss of Frobenius energy** during rank truncation.
 
-> BoneMemory: Universal Async Core for AI-Toolkit.   
-> Whether you’re training a Rank 16 LoRA on an entry-level GPU or pushing Rank 1024 on an RTX 4090,
-> BoneMemory eliminates memory bottlenecks.
-
-### 🌌 [Connected-Multiverse-Theory](https://github.com/OrakulStudio/Connected-Multiverse-Theory)
-[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22707436-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22707436)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
-
-> A Novel Framework for Structured Multiversal Geometry and Inter-Universal Energy Transfer
- 
 ### ⚙️ [AI-Toolkit-VRAM-Engine](https://github.com/OrakulStudio/AI-Toolkit-VRAM-Engine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
 > Universal asynchronous VRAM engine for Ostris AI-Toolkit.   
@@ -108,6 +95,16 @@ That was enough.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
 > Патч ядра PyTorch для RTX 4090 (sm_89).  
 > Нативная генерация Flux2 2752×1536 без квантования за 5 минут.
+
+### 🔗 [ComfyUI-Orakul-SVP](https://github.com/OrakulStudio/ComfyUI-Orakul-SVP)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
+> Dual Export Node - PNG + 16-bit RAW TIFF из одной ноды ComfyUI.  
+> Batch support · Accumulation mode · Zero compression loss
+
+### 🌌 [Connected-Multiverse-Theory](https://github.com/OrakulStudio/Connected-Multiverse-Theory)
+[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22707436-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22707436)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
+> A Novel Framework for Structured Multiversal Geometry and Inter-Universal Energy Transfer
 
 ### 📸 [Orakul Stock Collection](https://orakulstorm.myportfolio.com/work)
 > Макро-фотография насекомых и металлических текстур.  
