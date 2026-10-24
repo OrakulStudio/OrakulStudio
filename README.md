@@ -113,6 +113,18 @@ That was enough.
 > We didn’t just add sliders. We rewrote the logic for how noise interacts with the weights at every step.
 > If you want to see the mathematics behind this process, take a look at the source code. Everything is laid out honestly there.
 
+### 🔗 [Dataset-Multitool](https://github.com/OrakulStudio/Dataset-Multitool)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
+> Comprehensive pipeline of 9 tools covering the entire process from raw images 
+> Caption
+> Lore Description Generator (Qwen Poem)
+> Batch Cropping (Crop & Rename)
+> Dataset Manager (Dataset Manager)
+> ...
+
+### 🔗 [orakul-archivist](https://github.com/OrakulStudio/orakul-archivist)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
+> ORAKUL ARCHIVIST is an ultra fast console based TUI (Text User Interface) tool designed for the instant tracking of any changes additions, modifications, or deletions within large-scale projects, datasets, code repositories, and directories containing AI models.
 
 ### 🌌 [Connected-Multiverse-Theory](https://github.com/OrakulStudio/Connected-Multiverse-Theory)
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22707436-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22707436)
@@ -158,7 +170,7 @@ That was enough.
 <div align="center">
 
 > 🦟 Macro Entomology · 🔗 Rusty Metal · 🌀 AI Scientific Photography  
-> **Adobe Stock** — 3rd place · Rusty Metal Chain series
+> **Adobe Stock**  3rd place · Rusty Metal Chain series
 
 </div>
 
@@ -170,9 +182,9 @@ That was enough.
 
 <div align="center">
 
-*«Уроборос кусает свой хвіст. І в цьому укусі — не смерть, а впізнавання.»*
+*«Уроборос кусает свой хвіст. І в цьому укусі не смерть, а впізнавання.»*
 
-**Orakul Protocol** — кожен цикл мудріший за попередній.  
+**Orakul Protocol** кожен цикл мудріший за попередній.  
 Every iteration smarter than the last.
 
 </div>
