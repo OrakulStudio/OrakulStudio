@@ -126,10 +126,6 @@ That was enough.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
 > ORAKUL ARCHIVIST is an ultra fast console based TUI (Text User Interface) tool designed for the instant tracking of any changes additions, modifications, or deletions within large-scale projects, datasets, code repositories, and directories containing AI models.
 
-### 🌌 [Connected-Multiverse-Theory](https://github.com/OrakulStudio/Connected-Multiverse-Theory)
-[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22707436-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22707436)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
-> A Novel Framework for Structured Multiversal Geometry and Inter-Universal Energy Transfer
 
 ### 📸 [Orakul Stock Collection](https://orakulstorm.myportfolio.com/work)
 > Макро-фотография насекомых и металлических текстур.  
@@ -179,6 +175,11 @@ That was enough.
 ## 💬 Философия / Philosophy
 
 [Ouroboros-Protocol](https://github.com/OrakulStudio/Ouroboros-Protocol)
+
+### 🌌 [Connected-Multiverse-Theory](https://github.com/OrakulStudio/Connected-Multiverse-Theory)
+[![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22707436-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22707436)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
+> A Novel Framework for Structured Multiversal Geometry and Inter-Universal Energy Transfer
 
 <div align="center">
 
