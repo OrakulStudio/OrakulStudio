@@ -130,6 +130,9 @@ That was enough.
 
 ### 📜 The backstory before diving into low-level architecture
 
+---
+---
+
 ### 🔗 [Oracle-Project-4090](https://github.com/OrakulStudio/Oracle-Project-4090)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
 > Orakul Project: NVIDIA P-State Unlock for AI Training
