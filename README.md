@@ -130,7 +130,7 @@ That was enough.
 
 📜 The backstory before diving into low-level architecture
 
----
+
 
 ### 📸 [Orakul Stock Collection](https://orakulstorm.myportfolio.com/work)
 > Макро-фотография насекомых и металлических текстур.  
