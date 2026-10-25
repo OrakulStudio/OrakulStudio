@@ -132,6 +132,7 @@ That was enough.
 >### 📜 The backstory before diving into low-level architecture
 >
 >---
+>⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 >---
 >
 >### 🔗 [Oracle-Project-4090](https://github.com/OrakulStudio/Oracle-Project-4090)
