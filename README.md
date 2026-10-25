@@ -128,9 +128,14 @@ That was enough.
 
 ---
 
-📜 The backstory before diving into low-level architecture
+### 📜 The backstory before diving into low-level architecture
 
+### 🔗 [Oracle-Project-4090](https://github.com/OrakulStudio/Oracle-Project-4090)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
+> Orakul Project: NVIDIA P-State Unlock for AI Training
+> NVIDIA RTX 40-series GPUs (4090, 4080, etc.) boot into power-saving mode P8 and may not reach full performance during AI training, even when showing "high clocks" in monitoring tools.
 
+---
 
 ### 📸 [Orakul Stock Collection](https://orakulstorm.myportfolio.com/work)
 > Макро-фотография насекомых и металлических текстур.  
