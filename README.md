@@ -128,7 +128,7 @@ That was enough.
 
 ---
 
->[!IMPORTANT]
+>[!NOTE]
 >### 📜 The backstory before diving into low-level architecture
 >
 >---
