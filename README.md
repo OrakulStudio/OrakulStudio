@@ -65,7 +65,7 @@ That was enough.
 > This fork takes it in one specific direction: maximum performance on RTX 4090 (Ada Lovelace, sm_89).
 > Not about making weak hardware work. About making strong hardware fly.
 
-### [![](https://img.shields.io/badge/build-ai_toolkit_bonememory-brightgreen?style=plastic&logo=%23D33847&logoColor=violet&logoSize=auto&label=OrakulStudio&labelColor=%23FFBF00&color=%233B444B&cacheSeconds=3600)](https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory)
+### [![](https://img.shields.io/badge/build-ai_toolkit_bonememory-brightgreen?style=for-the-badge&logo=%23D33847&logoColor=violet&logoSize=auto&label=OrakulStudio&labelColor=%23FFBF00&color=%233B444B&cacheSeconds=3600)](https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory)
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22705010-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22705010)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
 > BoneMemory: Universal Async Core for AI-Toolkit.   
