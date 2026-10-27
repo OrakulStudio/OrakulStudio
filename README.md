@@ -56,7 +56,7 @@ That was enough.
 
 ##  Проекты / Projects
 
-### ⚙️[![](https://img.shields.io/badge/build-AI_Toolkit_Windows11-brightgreen?style=flat&logo=%23D33847&logoColor=violet&logoSize=auto&label=OrakulStudio&labelColor=%23FFBF00&color=%233B444B&cacheSeconds=3600)](https://github.com/OrakulStudio/AI-Toolkit-Windows11)
+### [![](https://img.shields.io/badge/build-AI_Toolkit_Windows11-brightgreen?style=flat&logo=%23D33847&logoColor=violet&logoSize=auto&label=OrakulStudio&labelColor=%23FFBF00&color=%233B444B&cacheSeconds=3600)](https://github.com/OrakulStudio/AI-Toolkit-Windows11)
 
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22700108-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22700108)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
