@@ -74,7 +74,8 @@ That was enough.
 > Whether you’re training a Rank 16 LoRA on an entry-level GPU or pushing Rank 1024 on an RTX 4090,
 > BoneMemory eliminates memory bottlenecks.
 
-### ⚙️ [FLUX2-RANK-2048 (21.09.2026)](https://github.com/OrakulStudio/FLUX2-RANK-2048)
+### <a href="https://github.com/OrakulStudio/FLUX2-RANK-2048"><img src="https://raw.githubusercontent.com/OrakulStudio/AI-Toolkit-Windows11/main/.github/assets/logo.jpg" height="28" align="absmiddle"><img src="https://img.shields.io/badge/build-FLUX2_RANK_2048-brightgreen?style=for-the-badge&logo=%23D33847&logoColor=violet&logoSize=auto&label=OrakulStudio&labelColor=%23FFBF00&color=%233B444B&cacheSeconds=3600" height="28" align="absmiddle"></a>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
 > Double-buffered async weight streaming - zero OOM at rank 1024+   
 > CPU pinned-memory pre-staging (bypasses pagefile/swap entirely)
