@@ -57,6 +57,7 @@ That was enough.
 ##  Проекты / Projects
 
 ### ⚙️ [AI-Toolkit-Windows11](https://github.com/OrakulStudio/AI-Toolkit-Viking-Engine-Fork)
+[os](https://img.shields.io/badge/build-AIToolkit-brightgreen?style=flat&logo=%23D33847&logoColor=violet&logoSize=auto&label=OrakulStudio&labelColor=%23FFBF00&color=%233B444B&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2FOrakulStudio%2FAI-Toolkit-Windows11)
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22700108-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22700108)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
 > High-performance LoRA training for Flux2 on RTX 4090.   
