@@ -54,9 +54,9 @@ That was enough.
 
 ---
 
-## 🚀 Проекты / Projects
+##  Проекты / Projects
 
-### ⚙️🚀 [AI-Toolkit-Windows11](https://github.com/OrakulStudio/AI-Toolkit-Viking-Engine-Fork)
+### ⚙️ [AI-Toolkit-Windows11](https://github.com/OrakulStudio/AI-Toolkit-Viking-Engine-Fork)
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22700108-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22700108)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
 > High-performance LoRA training for Flux2 on RTX 4090.   
@@ -72,7 +72,7 @@ That was enough.
 > Whether you’re training a Rank 16 LoRA on an entry-level GPU or pushing Rank 1024 on an RTX 4090,
 > BoneMemory eliminates memory bottlenecks.
 
-### ⚙️🚀 [FLUX2-RANK-2048 (21.09.2026)](https://github.com/OrakulStudio/FLUX2-RANK-2048)
+### ⚙️ [FLUX2-RANK-2048 (21.09.2026)](https://github.com/OrakulStudio/FLUX2-RANK-2048)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
 > Double-buffered async weight streaming - zero OOM at rank 1024+   
 > CPU pinned-memory pre-staging (bypasses pagefile/swap entirely)
