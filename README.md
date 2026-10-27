@@ -66,8 +66,7 @@ That was enough.
 > This fork takes it in one specific direction: maximum performance on RTX 4090 (Ada Lovelace, sm_89).
 > Not about making weak hardware work. About making strong hardware fly.
 
-### <a href="https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory">
-<img src="https://raw.githubusercontent.com/OrakulStudio/AI-Toolkit-Windows11/main/.github/assets/logo.jpg" height="28" align="absmiddle"><img src="https://img.shields.io/badge/AI_TOOLKIT_BONEMEMORY-3B444B?style=for-the-badge&label=OrakulStudio&labelColor=%23D33847" height="28" align="absmiddle"></a>
+### <a href="https://github.com/OrakulStudio/ai-toolkit-Ostris-bonememory"><img src="https://raw.githubusercontent.com/OrakulStudio/AI-Toolkit-Windows11/main/.github/assets/logo.jpg" height="28" align="absmiddle"><img src="https://img.shields.io/badge/build-AI_TOOLKIT_BONEMEMORY-brightgreen?style=for-the-badge&logo=%23D33847&logoColor=violet&logoSize=auto&label=OrakulStudio&labelColor=%23FFBF00&color=%233B444B&cacheSeconds=3600" height="28" align="absmiddle"></a>
 
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22705010-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22705010)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov)
